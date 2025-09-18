@@ -5,3 +5,7 @@
 4. python manage.py migrate
 5. python manage.py makemigrations
 6. python manage.py runserver
+
+~~~~~~~
+![image](.\upload\imgdemo\5002.jpg)
+
