@@ -18,9 +18,7 @@ python manage.py runserver
 
 
 ~~~~~~~
-## ~~~~~~~~~~~
-
-<img src="./upload/imgdemo/5002.jpg">
-<img src="./upload/imgdemo/1846.jpg">
-<img src="./upload/imgdemo/12651.jpg">
-<img src="./upload/imgdemo/1588.jpg">
+![image](./upload/imgdemo/5002.jpg)
+![image](./upload/imgdemo/1846.jpg)
+![image](./upload/imgdemo/12651.jpg)
+![image](./upload/imgdemo/1588.jpg)
