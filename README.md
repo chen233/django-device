@@ -7,5 +7,5 @@
 6. python manage.py runserver
 
 ~~~~~~~
-![image](.\upload\imgdemo\5002.jpg)
 
+<img src=".\upload\imgdemo\5002.jpg" width="400px" height="460px" alt="捐赠扫一扫">
