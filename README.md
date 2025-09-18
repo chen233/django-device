@@ -15,9 +15,6 @@ python manage.py makemigrations
 python manage.py runserver
 ```
 浏览器访问 http://localhost:8000
-
-
-~~~~~~~
 ![image](upload/imgdemo/5002.jpg)
 ![image](upload/imgdemo/1846.jpg)
 ![image](upload/imgdemo/12651.jpg)
